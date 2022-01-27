@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoCredit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoCredit_jar</output-path>
+    <root id="archive" name="AutoCredit.jar">
+      <element id="module-output" name="AutoCredit" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/4.6/commons-beanutils-1.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/4.6/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/4.6/commons-collections4-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/4.6/commons-lang3-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/4.6/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/4.6/commons-text-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/4.6/opencsv-4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/joda-time-2.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/jcalendar-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
